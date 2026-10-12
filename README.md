@@ -70,3 +70,7 @@ Design a secure and scalable Microsoft cloud environment.
 
 \- \[ ] Add monitoring and backup configuration
 
+
+## Branch Workflow
+
+This change was created in a separate Git branch and will be reviewed through a pull request.
