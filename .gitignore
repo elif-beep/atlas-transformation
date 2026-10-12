@@ -1,0 +1,22 @@
+# Secrets and credentials
+.env
+*.key
+*.pem
+*.pfx
+*.tfvars
+
+# Terraform local files
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+
+# Temporary files
+*.tmp
+*.bak
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Editor files
+.vscode/
